@@ -69,4 +69,4 @@ MIT Licensed
 
 ## Acknowledgements
 
-Originally forked from (benui)[https://github.com/benui-dev/UE-BUITween] at this commit: https://github.com/benui-dev/UE-BUITween/commit/1f14a481908ea3a3fa8fde436a639d4e0559a48b
+Originally forked from [benui](https://github.com/benui-dev/UE-BUITween) at this commit: https://github.com/benui-dev/UE-BUITween/commit/1f14a481908ea3a3fa8fde436a639d4e0559a48b
