@@ -1,4 +1,4 @@
-# UI Tweening Libary for UE4/UMG
+# UI Tweening Libary for Unreal Engine 5
 
 Create simple tweens for UMG widgets from C++.
 
@@ -63,17 +63,10 @@ UBUITween::Create( MyWidget, 0.5f )
 For the full API, check the source code.
 
 
-## Caveats
-
-* I haven't performance-tested it beyond having 5-6 tweens running simultaneously.
-* No Blueprint support.
-
 ## License
 
-[CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+MIT Licensed
 
-## Contact
+## Acknowledgements
 
-If you find it useful, drop me a line [@_benui](https://twitter.com/_benui) on Twitter
-
-[benui.ca](https://benui.ca)
+Originally forked from @benui-dev at this commit: https://github.com/benui-dev/UE-BUITween/commit/1f14a481908ea3a3fa8fde436a639d4e0559a48b
